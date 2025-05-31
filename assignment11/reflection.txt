@@ -1,0 +1,19 @@
+1. Reflect on the differences between static and interactive visualizations.
+Static and interactive visualizations both help us understand data, but they work in different ways. 
+Static visualizations are quick to create and easy to read. They show a fixed view of the data and are great for presentations. 
+However, they don’t allow any interaction — what you see is what you get. On the other hand, interactive visualizations let users explore the data themselves. 
+You can hover over points to see details, filter results, zoom in on certain areas, or change the view entirely. 
+This makes interactive visuals more powerful for deeper analysis and storytelling, especially with large or complex datasets. 
+While static visuals are often simpler and faster to load, interactive ones offer a more dynamic and engaging experience for the audience.
+
+2. Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+Dashboards are useful because they show important information all in one place and update it in real time. 
+This helps people quickly see what’s going well and what needs attention. Instead of looking through a lot of data, users can easily understand the big picture and make decisions faster. 
+Dashboards are also interactive, so you can click, filter, and explore the data in a way that’s easy to understand.
+
+
+3. Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+Overall, tools like Plotly and Dash help turn complex data into easy-to-understand visual stories.
+Instead of showing static charts, these tools let users explore the data by zooming in, filtering, or selecting specific values. 
+This helps different team members understand the data better and ask questions in real time. 
+It also makes presentations more engaging and clear, especially when explaining trends or patterns. 
