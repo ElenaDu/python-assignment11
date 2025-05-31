@@ -21,7 +21,7 @@ try:
         df = df.sort_values(by='revenue', ascending=False)
 
         #Create a bar chart where the x axis is the employee last name and the y axis is the revenue
-        df.plot(x = 'last_name', y = 'revenue', kind="bar", color="skyblue", title='Employee Revenue')
+        df.plot(x = 'last_name', y = 'revenue', kind='bar', color='skyblue', title='Employee Revenue')
         plt.xlabel('Employee Last Name')
         plt.ylabel('Revenue ($)')
         plt.xticks(rotation=45)
